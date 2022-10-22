@@ -1,6 +1,6 @@
 schemaVersion: 2.1.0
 metadata:
-  generateName: quarkus-api-example-demo
+  name: quarkus-devfile-example-demo
 attributes:
   controller.devfile.io/storage-type: ephemeral
 components:
